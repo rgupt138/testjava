@@ -1,4 +1,4 @@
-package training.taylor.timetracker.core;
+//package training.taylor.timetracker.core;
 
 import static org.junit.Assert.*;
 
